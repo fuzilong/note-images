@@ -1,4 +1,3 @@
-> ⛳ 如果大家在自学的过程中，时间紧迫、没有方向、经常遇到难以解决的Bug、没有亮眼的项目、缺少AI大模型经验，而又想快速系统化的学习，高薪就业的小伙伴儿，大家都可以 [🔗](https://heuqqdmbyk.feishu.cn/wiki/Bw6lwnFxbiT4PQklfGaciQoJneg) ，了解一下我们系统化的课程体系。
 
 ## Vue工程化
 
